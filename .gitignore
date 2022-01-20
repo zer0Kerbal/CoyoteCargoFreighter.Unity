@@ -35,8 +35,6 @@
 *.bat
 
 # Compressed
-*.rar
-*.zip
 *.7z
 *.tar
 
